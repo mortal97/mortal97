@@ -8,7 +8,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at 
+- :school: I am a `Junior` 
 
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer 
